@@ -524,18 +524,18 @@
                 <div class="col-xl-6">
                     <div class="inner-form">
                         <h4>Fill in your details</h4>
-                        <form method="" action="">
+                        <form method="post" action="./cung">
                             <div class="row">
                                 <div class="col-xl-12">
                                     <div class="inner-content">
                                         <label for="name">My name is:</label>
-                                        <input type="text" id="name">
+                                        <input type="text" id="name" name="name">
                                     </div>
                                 </div>
                                 <div class="col-xl-12">
                                     <div class="inner-content">
                                         <label for="born">I was born in:</label>
-                                        <input type="text" id="name" placeholder="City, state, country">
+                                        <input type="text" id="name" name="born" placeholder="City, state, country">
                                     </div>
                                 </div>
                             </div>
@@ -549,13 +549,13 @@
                                     <div class="col-xl-8">
                                         <div class="inner-info">
                                             <div class="info">
-                                                <input type="text" id="mm" placeholder="MM">
+                                                <input type="text" id="mm" name="mm" placeholder="MM">
                                             </div>
                                             <div class="info">
-                                                <input type="text" id="dd" placeholder="DD">
+                                                <input type="text" id="dd" name="dd" placeholder="DD">
                                             </div>
                                             <div class="info">
-                                                <input type="text" id="yyyy" placeholder="YYYY">
+                                                <input type="text" id="yyyy" name="yyyy" placeholder="YYYY">
                                             </div>
                                         </div>
                                     </div>
@@ -580,7 +580,7 @@
                                     </div>
                                 </div>
                                 <div class="col-xl-12">
-                                    <a href="#" class="btn">Create Chart</a>
+                                     <button type="submit" class="btn">Create Chart</button>
                                 </div>
                             </div>
                         </form>
