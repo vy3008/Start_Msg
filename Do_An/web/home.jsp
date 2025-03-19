@@ -256,21 +256,6 @@
                         <li>
                             <a href="#">Home</a>
                         </li>
-                        <li>
-                            <a href="#">Create Chart</a>
-                        </li>
-                        <li>
-                            <a href="#">Shop</a>
-                        </li>
-                        <li>
-                            <a href="#">Celebbrity</a>
-                        </li>
-                        <li>
-                            <a href="#">Resources</a>
-                        </li>
-                        <li>
-                            <a href="#">Contact</a>
-                        </li>
                     </ul>
                 </div>
             </div>
@@ -391,44 +376,6 @@
     <div class="section-one">
         <div class="container">
             <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
-                    <div class="inner-box">
-                        <div class="inner-image">
-                            <a href="#">
-                                <img src="https://assets.astro-charts.com/site/woman-hp.webp" alt="">
-                            </a>
-                        </div>
-                        <div class="inner-content">
-                            <div class="inner-desc">
-                                Discover your astrological planetary positions, aspects, patterns, and more.
-                            </div>
-                            <div class="inner-title">
-                                <a href="#">
-                                    <span>Birth Chart</span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
-                    <div class="inner-box">
-                        <div class="inner-image">
-                            <a href="#">
-                                <img src="https://assets.astro-charts.com/site/woman-hp.webp" alt="">
-                            </a>
-                        </div>
-                        <div class="inner-content">
-                            <div class="inner-desc">
-                                Discover your astrological planetary positions, aspects, patterns, and more.
-                            </div>
-                            <div class="inner-title">
-                                <a href="#">
-                                    <span>Birth Chart</span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
                     <div class="inner-box">
                         <div class="inner-image">
